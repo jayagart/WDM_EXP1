@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 20-04-2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,7 +53,16 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+--------------
+Employee Data
+---------------
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/e61c3473-db76-4cfb-9885-e9baa9c9dec7" />
 
+--------------
+Weather Data
+---------------
+
+<img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/fd412aa5-f6ba-4b92-9142-f1609b9295fd" />
 
 
 ### PREPROCESSING
@@ -75,6 +84,18 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+--------------
+Employee Data
+---------------
+
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/37eb9225-cdb4-481d-8541-5bd89d231847" />
+
+--------------
+Weather Data
+---------------
+
+<img width="1916" height="1142" alt="image" src="https://github.com/user-attachments/assets/2f48feb1-e017-4604-93df-fd626b6fd9cb" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +112,18 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+--------------
+Employee Data
+---------------
+
+<img width="1914" height="1141" alt="image" src="https://github.com/user-attachments/assets/7ec3766b-2c7d-477b-96ee-d7d87df07e6e" />
+
+--------------
+Weather Data
+---------------
+
+<img width="1913" height="1140" alt="image" src="https://github.com/user-attachments/assets/76300062-c1c6-48f0-919c-4a71c4d5474d" />
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +140,17 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+--------------
+Employee Data
+---------------
+
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/528afcde-cc07-45a6-813b-583942a8f5cc" />
+
+--------------
+Weather Data
+---------------
+
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/870c10d3-6800-4eff-8db2-d3fff601eb2d" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
